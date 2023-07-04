@@ -2,7 +2,7 @@
 Company HR-Dashboard With MySQL &amp; PowerBI (End to End Project)
 
 # Questions
-What is the gender breakdown of employees in the company?
+What is the gender breakdown of employees in the company?  &amp;
 What is the race/ethnicity breakdown of employees in the company?
 What is the age distribution of employees in the company?
 How many employees work at headquarters versus remote locations?
