@@ -1,18 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HR Dashboard</title>
-    <style>
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-        }
-        h1 {
-            text-align: center;
-        }
-    </style>
+   
 </head>
 <body>
     <img src="https://github.com/wajidturi50/HR-Dashboard-End-to-End-Project/blob/main/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png" alt="HR Dashboard">
